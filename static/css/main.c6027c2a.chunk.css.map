@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KAGE,eACF,CAEA,qBACE,gBACF","file":"main.c6027c2a.chunk.css","sourcesContent":["html {\n  /* 浏览器默认像素是16px，62.5% * 16 = 10px */\n  /* 因此，这里1rem = 10px */\n  font-size: 62.5%;\n}\n\nhtml body #root .App {\n  min-height: 100vh;\n}\n"]}
